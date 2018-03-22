@@ -8,6 +8,14 @@ import javafx.scene.paint.Color;
 import javafx.animation.PathTransition;
 import javafx.animation.Interpolator;
 
+/*
+ * @author Michael M
+ * @author Jingming Feng
+ * @author Thien Dang
+ * 
+ * Track class creates race tracks, and animate car objects along the race tracks
+ */
+
 public class Track {
     
     Car[] cars = new Car[4];

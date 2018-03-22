@@ -5,6 +5,13 @@ import javafx.scene.shape.PathElement;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
+/*
+ * @author Michael M
+ * @author Jingming Feng
+ * @author Thien Dang
+ * 
+ * Car class creates car objects that has wheels, color, engine and speed variables
+ */
 
 public class Car extends ImageView{
    private PathElement[][] carPath;
